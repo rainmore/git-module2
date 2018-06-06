@@ -1,0 +1,3 @@
+[submodule "modules/module1"]
+	path = modules/module1
+	url = git@github.com:rainmore/git-module1.git
